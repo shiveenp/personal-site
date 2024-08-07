@@ -6,7 +6,7 @@ ICs that have progressed far enough in their career are always making a tradeoff
 
 However, whilst it’s easy to know the difference between manager vs maker schedule and work around it, this might not always be the case between strategic and tactical work. For example, on a given heavy meetings day I might have a calendar that looks like this:
 
-![Image showing a packed day of meetings](/img/example-packed-calendar.png "Busy meeting day")
+![Image showing a packed day of meetings](/img/example-packed-calendar.png)
 
 and I instantly knew today would be running on a manager’s schedule. Usually, I can anticipate well in advance (I say usually because sometimes things happen, like an incident at work, and the fallout can throw a spanner in everything) and plan around it. I can bunch up admin tasks in between the meetings or small coding tasks like updating a yml file to use a more efficient AWS instance in a region on prod — things that require minimal context loading in my brain and are on auto-pilot for me.
 

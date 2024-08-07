@@ -8,7 +8,7 @@ them for coming up to 3 years now. The way I use it on my Mac is via profiles, w
 to any app that uses system dns. Chrome doesn't follow system dns but the setting is easily avaiable in preference. However,
 I couldn't find anything that allowed me to change this setting readily in Arc, since their settings panel is kinda sparse. which resulted in:
 
-<img src="/img/no-next-dns.png" alt="Image showing NextDNS not configured for ARC">
+![](img/no-next-dns.png)
 
 However, you can override the macos system dns settings to make it work. Just run:
 
@@ -18,4 +18,4 @@ defaults write company.thebrowser.Browser BuiltInDnsClientEnabled -boolean false
 
 and just like that, my boi is back again
 
-<img src="/img/yes-next-dns.png" alt="Image showing NextDNS properly configured for ARC">
+![](img/yes-next-dns.png)
