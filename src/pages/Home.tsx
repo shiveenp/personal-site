@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <div className="flex flex-col items-center justify-center text-gray-600 body-font">
             <section className="pt-20">
-                <p className="prose text-gray-500 body-font">
+                <p className="prose text-gray-500 body-font pl-8">
                     Hello, and welcome to my corner of the internet. I'm Shiveen, a software engineer, based in
                     Melbourne Australia.
                     I enjoy writing and sometimes taking photos.
