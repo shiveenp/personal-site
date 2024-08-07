@@ -1,0 +1,10 @@
+/* globalStyles.css */
+@layer base {
+  h1 {
+    @apply text-2xl font-bold text-gray-800;
+  }
+  h2 {
+    @apply text-xl font-semibold text-gray-700;
+  }
+  /* Add more here for other html tags */
+}
