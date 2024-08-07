@@ -1,4 +1,4 @@
-import posts from "../posts/metadata.json";
+import posts from "../../public/posts/metadata.json";
 import {Link} from "react-router-dom";
 
 const HomePagePosts = () => {

@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 // This should be the path to directory where you keep posts
-import posts from '../posts/metadata.json';
+import posts from '../../public/posts/metadata.json';
 
 const AllPosts = () => {
 
