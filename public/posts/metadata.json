@@ -1,70 +1,70 @@
 [
   {
     "title": "Post Boot Actions Using Spring Application Events",
-    "path": "/public/posts/post-boot-actions-using-application-events.md"
+    "path": "/posts/post-boot-actions-using-application-events.md"
   },
   {
     "title": "Experiment: Simple Oembed Service with Http4k",
-    "path": "/public/posts/simple-oembed-service-using-http4k.md"
+    "path": "/posts/simple-oembed-service-using-http4k.md"
   },
   {
     "title": "Sending Multipart/Form Data with WebTestClient",
-    "path": "/public/posts/sending-multipart-form-data-using-spring-webtestclient.md"
+    "path": "/posts/sending-multipart-form-data-using-spring-webtestclient.md"
   },
   {
     "title": "Experiment: Brows3r, Pure Kotlin S3 Browser",
-    "path": "/public/posts/introducing-bows3r-small-s3-web-browser-written-in-pure-kotlin.md"
+    "path": "/posts/introducing-bows3r-small-s3-web-browser-written-in-pure-kotlin.md"
   },
   {
     "title": "Shadow Jar with Http4k",
-    "path": "/public/posts/fix-shadow-jar-http4k-jetty.md"
+    "path": "/posts/fix-shadow-jar-http4k-jetty.md"
   },
   {
     "title": "Building a Reactive OAuth client App with SpringBoot and Kotlin Coroutines",
-    "path": "/public/posts/spring-boot-reactive-oauth-client-with-coroutines.md"
+    "path": "/posts/spring-boot-reactive-oauth-client-with-coroutines.md"
   },
   {
     "title": "DynamoDB + Kotlin, Some Gotchas",
-    "path": "/public/posts/dynamodb-gotchas.md"
+    "path": "/posts/dynamodb-gotchas.md"
   },
   {
     "title": "Equality Checks in Kotlin With Unstructured Data",
-    "path": "/public/posts/equality-checks-in-kotlin-with-unstructured-data.md"
+    "path": "/posts/equality-checks-in-kotlin-with-unstructured-data.md"
   },
   {
     "title": "Software is not a race",
-    "path": "/public/posts/software-is-not-a-race.md"
+    "path": "/posts/software-is-not-a-race.md"
   },
   {
     "title": "Daily routine",
-    "path": "/public/posts/daily-routine.md"
+    "path": "/posts/daily-routine.md"
   },
   {
     "title": "On note taking tools",
-    "path": "/public/posts/dynamodb-gotchas.md"
+    "path": "/posts/dynamodb-gotchas.md"
   },
   {
     "title": "Code review principles",
-    "path": "/public/posts/code-review-guidelines.md"
+    "path": "/posts/code-review-guidelines.md"
   },
   {
     "title": "Contributor vs Maintainer mentality",
-    "path": "/public/posts/contributor-vs-maintainer-mentality.md"
+    "path": "/posts/contributor-vs-maintainer-mentality.md"
   },
   {
     "title": "Making NextDNS work with Arc Browser",
-    "path": "/public/posts/arc-make-nextdns-work.md"
+    "path": "/posts/arc-make-nextdns-work.md"
   },
   {
     "title": "Fix git branch uppercasing",
-    "path": "/public/posts/fix-git-branch-prefix-suddenly-uppercase.md"
+    "path": "/posts/fix-git-branch-prefix-suddenly-uppercase.md"
   },
   {
     "title": "Circuit breakers for your life",
-    "path": "/public/posts/circuit-breakers-for-your-life.md"
+    "path": "/posts/circuit-breakers-for-your-life.md"
   },
   {
     "title": "Balancing strategic vs tactical work in software engineering",
-    "path": "/public/posts/balancing-strategic-vs-tactical-work-in-engineering.md"
+    "path": "/posts/balancing-strategic-vs-tactical-work-in-engineering.md"
   }
 ]
