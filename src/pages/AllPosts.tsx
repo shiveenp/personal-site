@@ -7,7 +7,6 @@ const AllPosts = () => {
         <div className="flex flex-col items-center justify-center text-gray-600 body-font">
             <div className="pl-6 pt-10">
                 <ul className="list-disc list-inside pt-30">
-                    {/* We reverse here since the json file has the most recent entry at the bottom */}
                     {posts.map((post) => (
                         <li className="p-1">
                             <Link to={`/post?path=${encodeURIComponent(post.path)}`}>
