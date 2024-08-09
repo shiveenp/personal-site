@@ -15,11 +15,13 @@ const AppRoutes = () => {
 }
 const App = () => {
     return (
-        <div className="mx-auto max-w-screen-xl px-4">
-            <BrowserRouter>
-                <Header/>
-                <AppRoutes/>
-            </BrowserRouter>
+        <div className="bg-gray-50 min-h-screen">
+            <div className="mx-auto max-w-screen-xl px-4">
+                <BrowserRouter>
+                    <Header/>
+                    <AppRoutes/>
+                </BrowserRouter>
+            </div>
         </div>
     )
 };

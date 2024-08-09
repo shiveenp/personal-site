@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <div className="flex flex-col items-center justify-center">
             <header
-                className="relative pt-4 flex flex-wrap justify-between items-end gap-x-8 gap-y-2 px-4 pb-2 border-b-4 border-primary">
+                className="relative pt-4 flex flex-wrap justify-between items-end gap-x-8 gap-y-2 px-4 pb-2 border-b-2 border-primary">
                 <div>
                     <p>
                         <a className="font-semibold" href="/">Shiveen Pandita</a>
