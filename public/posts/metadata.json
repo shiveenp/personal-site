@@ -1,70 +1,87 @@
 [
   {
-    "title": "Post Boot Actions Using Spring Application Events",
-    "path": "/posts/post-boot-actions-using-application-events.md"
-  },
-  {
-    "title": "Experiment: Simple Oembed Service with Http4k",
-    "path": "/posts/simple-oembed-service-using-http4k.md"
-  },
-  {
-    "title": "Sending Multipart/Form Data with WebTestClient",
-    "path": "/posts/sending-multipart-form-data-using-spring-webtestclient.md"
-  },
-  {
-    "title": "Experiment: Brows3r, Pure Kotlin S3 Browser",
-    "path": "/posts/introducing-bows3r-small-s3-web-browser-written-in-pure-kotlin.md"
-  },
-  {
-    "title": "Shadow Jar with Http4k",
-    "path": "/posts/fix-shadow-jar-http4k-jetty.md"
-  },
-  {
-    "title": "Building a Reactive OAuth client App with SpringBoot and Kotlin Coroutines",
-    "path": "/posts/spring-boot-reactive-oauth-client-with-coroutines.md"
-  },
-  {
-    "title": "DynamoDB + Kotlin, Some Gotchas",
-    "path": "/posts/dynamodb-gotchas.md"
-  },
-  {
-    "title": "Equality Checks in Kotlin With Unstructured Data",
-    "path": "/posts/equality-checks-in-kotlin-with-unstructured-data.md"
-  },
-  {
-    "title": "Software is not a race",
-    "path": "/posts/software-is-not-a-race.md"
-  },
-  {
-    "title": "Daily routine",
-    "path": "/posts/daily-routine.md"
-  },
-  {
-    "title": "On note taking tools",
-    "path": "/posts/dynamodb-gotchas.md"
-  },
-  {
-    "title": "Code review principles",
-    "path": "/posts/code-review-guidelines.md"
-  },
-  {
-    "title": "Contributor vs Maintainer mentality",
-    "path": "/posts/contributor-vs-maintainer-mentality.md"
-  },
-  {
-    "title": "Making NextDNS work with Arc Browser",
-    "path": "/posts/arc-make-nextdns-work.md"
-  },
-  {
-    "title": "Fix git branch uppercasing",
-    "path": "/posts/fix-git-branch-prefix-suddenly-uppercase.md"
+    "title": "Balancing strategic vs tactical work in software engineering",
+    "path": "/posts/balancing-strategic-vs-tactical-work-in-engineering.md",
+    "date": "May 2024"
   },
   {
     "title": "Circuit breakers for your life",
-    "path": "/posts/circuit-breakers-for-your-life.md"
+    "path": "/posts/circuit-breakers-for-your-life.md",
+    "date": "May 2024"
   },
   {
-    "title": "Balancing strategic vs tactical work in software engineering",
-    "path": "/posts/balancing-strategic-vs-tactical-work-in-engineering.md"
+    "title": "Fix git branch uppercasing",
+    "path": "/posts/fix-git-branch-prefix-suddenly-uppercase.md",
+    "date": "Jan 2024"
+  },
+  {
+    "title": "Making NextDNS work with Arc Browser",
+    "path": "/posts/arc-make-nextdns-work.md",
+    "date": "July 2023"
+  },
+  {
+    "title": "Contributor vs Maintainer mentality",
+    "path": "/posts/contributor-vs-maintainer-mentality.md",
+    "date": "April 2023"
+  },
+  {
+    "title": "Code review principles",
+    "path": "/posts/code-review-guidelines.md",
+    "date": "April 2023"
+  },
+  {
+    "title": "On note taking tools",
+    "path": "/posts/dynamodb-gotchas.md",
+    "date": "June 2022"
+  },
+  {
+    "title": "Daily routine",
+    "path": "/posts/daily-routine.md",
+    "date": "January 2022"
+  },
+  {
+    "title": "Software is not a race",
+    "path": "/posts/software-is-not-a-race.md",
+    "date": "August 2021"
+  },
+  {
+    "title": "Equality Checks in Kotlin With Unstructured Data",
+    "path": "/posts/equality-checks-in-kotlin-with-unstructured-data.md",
+    "date": "June 2021"
+  },
+  {
+    "title": "DynamoDB + Kotlin, Some Gotchas",
+    "path": "/posts/dynamodb-gotchas.md",
+    "date": "May 2021"
+  },
+  {
+    "title": "Building a Reactive OAuth client App with SpringBoot and Kotlin Coroutines",
+    "path": "/posts/spring-boot-reactive-oauth-client-with-coroutines.md",
+    "date": "June 2020"
+  },
+  {
+    "title": "Shadow Jar with Http4k",
+    "path": "/posts/fix-shadow-jar-http4k-jetty.md",
+    "date": "April 2020"
+  },
+  {
+    "title": "Experiment: Brows3r, Pure Kotlin S3 Browser",
+    "path": "/posts/introducing-bows3r-small-s3-web-browser-written-in-pure-kotlin.md",
+    "date": "July 2019"
+  },
+  {
+    "title": "Sending Multipart/Form Data with WebTestClient",
+    "path": "/posts/sending-multipart-form-data-using-spring-webtestclient.md",
+    "date": "April 2019"
+  },
+  {
+    "title": "Experiment: Simple Oembed Service with Http4k",
+    "path": "/posts/simple-oembed-service-using-http4k.md",
+    "date": "March 2019"
+  },
+  {
+    "title": "Post Boot Actions Using Spring Application Events",
+    "path": "/posts/post-boot-actions-using-application-events.md",
+    "date": "January 2019"
   }
 ]
