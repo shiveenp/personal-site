@@ -3,11 +3,11 @@ import {Link} from "react-router-dom";
 
 const HomePagePosts = () => {
     return (
-        <ul className="list-disc list-inside">
-            {posts.slice(0, 5).map((post, index) => (
+        <ul className="list-disc list-inside dark:text-blue-400">
+            {posts.slice(0, 10).map((post, index) => (
                 <li key={index} className="p-1">
                     <Link to={`/post?path=${encodeURIComponent(post.path)}`}>
-                        <span className="font-semibold text-gray-800 hover:underline">
+                        <span className="font-semibold text-gray-800 hover:underline dark:text-slate-200">
                             {post.title}
                         </span>
                     </Link>

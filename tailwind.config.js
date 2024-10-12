@@ -12,6 +12,8 @@ export default {
   },
   plugins: [
     generated,
+    // eslint-disable-next-line no-undef
+    require('@tailwindcss/typography'),
   ],
 }
 

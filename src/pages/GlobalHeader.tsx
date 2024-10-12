@@ -2,30 +2,24 @@ import { Link } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className="flex flex-col items-center justify-center">
+        <div className="flex flex-wrap items-center justify-center">
             <header
-                className="relative pt-4 flex flex-wrap justify-between items-end gap-x-8 gap-y-2 px-4 pb-2 border-b-2 border-primary">
+                className="relative pt-4 flex flex-wrap items-end gap-x-64 gap-y-2 px-4 pb-2 border-b-2 border-primary dark:border-blue-500">
                 <div>
                     <p>
-                        <a className="font-semibold" href="/">Shiveen Pandita</a>
+                        <a className="font-semibold dark:text-slate-200" href="/">Shiveen Pandita</a>
                     </p>
-                    <p className="text-sm">Tech Lead and Engineer at Atlassian</p>
+                    <p className="text-sm dark:text-slate-200">Tech Lead and Engineer at Atlassian</p>
                 </div>
                 <ul className="flex gap-x-3">
-                    <li className="text-sm font-semibold text-gray-900">
+                    <li className="text-sm font-semibold text-gray-900 dark:text-slate-200">
                         <Link to="/">Home</Link>
                     </li>
-                    <li className="text-sm font-semibold text-gray-900">
+                    <li className="text-sm font-semibold text-gray-900 dark:text-slate-200">
                         <Link to="/posts">Posts</Link>
                     </li>
-                    <li className="text-sm font-semibold text-gray-900">
-                        <Link to="/links">Links</Link>
-                    </li>
-                    <li className="text-sm font-semibold text-gray-900">
+                    <li className="text-sm font-semibold text-gray-900 dark:text-slate-200">
                         <Link to="/about">About</Link>
-                    </li>
-                    <li className="text-sm font-semibold text-gray-900">
-                        <Link to="/projects">Projects</Link>
                     </li>
                 </ul>
             </header>
