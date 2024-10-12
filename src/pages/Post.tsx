@@ -20,13 +20,13 @@ const Post = () => {
     }, [postPath]);
 
     return (
-        <div className="prose prose-neutral container mx-auto px-4 pb-10 pt-10 dark:prose-invert">
+        <div className="prose container mx-auto px-4 pb-10 pt-10 dark:prose-invert">
             <ReactMarkdown remarkPlugins={[gfm]} children={content}
                            components={{
                                code(props) {
                                    const {children, className, node, ...rest} = props
                                    const match = /language-(\w+)/.exec(className || '')
-                                   return match ? (
+                                      return match ? (
                                        // @ts-expect-error Turning this off for now
                                        <SyntaxHighlighter
                                            {...rest}
