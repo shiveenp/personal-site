@@ -1,13 +1,7 @@
 # On Note Taking Tools
 
----
-**Update 2024**
-I have now gone fully in Apple Stack and use Apple Notes as my one true notes app.
----
-**Update 2023**
-I have settled back on Bear as I kept coming back to it and the new Bear 2.0 looks amazing 🤩
----
 
+> Update (2023): I have settled back on Bear as I kept coming back to it and the new Bear 2.0 looks amazing 🤩
 
 I have always been a bit of a bike shedder regarding productivity apps, and note-taking apps are probably the most bike-shedded. Personally and professionally, notes have been integral to my learning journey since I was in University when I started to use them thoughtfully.
 
